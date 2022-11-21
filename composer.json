@@ -1,0 +1,19 @@
+{
+    "name": "monolog/log",
+    "autoload": {
+        "psr-4": {
+            "Monolog\\Log\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oscar",
+            "email": "79673999+oscardasilva0@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.8",
+        "phpmailer/phpmailer": "^6.0",
+        "filips123/monolog-phpmailer": "^1.0"
+    }
+}
